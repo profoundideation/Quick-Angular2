@@ -1,1 +1,1 @@
-# Quick Angular 2 - Lean Clone
+# Quick Angular 2
